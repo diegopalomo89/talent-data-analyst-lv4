@@ -1,0 +1,4 @@
+1) O item 1 e 2 estão separados em dois arquivos notebook diferentes;
+2) As visões reports são geradas em um dataframe separado para cada uma delas;
+3) Alterar o caminho de salvamento do parquet/csv para a máquina local se desejável;
+4) Etapas do processo comentadas para entendimento de cada parte
